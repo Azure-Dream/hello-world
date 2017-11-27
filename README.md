@@ -1,2 +1,2 @@
 # hello-world
-just following a tutorial
+I am a C++ and Python programmer
